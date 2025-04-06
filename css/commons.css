@@ -1,0 +1,44 @@
+.centeredbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#meow {
+    background-color: rgba(0, 0, 0, 0.482);
+    width: 1000px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+#here {
+    color: rgb(188, 21, 82);
+}
+
+/* socials */
+
+#ro {
+    color: rgb(56, 56, 251);
+}
+
+#ro:hover {
+    color: rgb(47, 128, 248);
+}
+
+#tw {
+    color: rgb(155, 155, 240);
+}
+
+#tw:hover {
+    color: rgb(21, 124, 198);
+}
+
+#yo {
+    color: rgb(228, 32, 32);
+}
+
+#yo:hover {
+    color: rgb(179, 18, 10);
+}
