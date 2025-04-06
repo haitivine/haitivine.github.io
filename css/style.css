@@ -21,6 +21,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: rgba(210, 28, 134, 0.814);
+}
+
 li {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
