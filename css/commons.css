@@ -12,7 +12,7 @@
     font-size: 20px; 
     font-style: italic; 
     padding: 13px; 
-    letter-spacing: 2px;
+    letter-spacing: 1px;
   }
 
 .hrefs {
@@ -21,7 +21,7 @@
 }
 
 #meow {
-    background-color: rgba(0, 0, 0, 0.482);
+    background-color: rgba(0, 0, 0, 0.705);
     width: 1000px;
     height: 500px;
     border: 2px solid rgb(71, 71, 71);
